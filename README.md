@@ -8,4 +8,4 @@ Minecraft can store it's player data in weird ways. For example in versions up t
 You may follow this guide for a brief rundown of server world fixing, but do note that this tool has many options for all sorts of player data organization needs.
 https://www.youtube.com/watch?v=-q1OxlnLfu8
 
-Do note, 1.21.11 and under store playerdata in level.dat (singleplayer) and playerdata (multiplayer) whereas 26.1 stores playerdata in players folder, with 3 subfolders, and level.dat selects one of those, without including it's own playerdata. You can find more info under releases. Do comment on my video, or leave submit an issue if you see anything is wrong!
+Do note, versions 1.21.11 and under store playerdata in level.dat (singleplayer) and playerdata (multiplayer) whereas 26.1 stores playerdata in players folder, with 3 subfolders. Level.dat selects one of those players, without including it's own playerdata in 26.1. You can find more info under releases. Do comment on my video, or submit an issue if you see anything is wrong!
