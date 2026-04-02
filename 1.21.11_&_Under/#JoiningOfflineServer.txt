@@ -1,0 +1,1 @@
+Ensure in server properties file that online-mode is set to false. Then you can use this tool to convert UUID of online player to the UUID of the offline mode player selected in prism launcher.
