@@ -1,0 +1,276 @@
+([('WorldConverterTool.exe',
+   'E:\\Libraries\\Documents\\Games & '
+   'Software\\Minecraft\\Tools\\WorldConverter\\build\\WorldConverterTool\\WorldConverterTool.exe',
+   'EXECUTABLE'),
+  ('python313.dll',
+   'C:\\Program Files\\Python\\Python313\\python313.dll',
+   'BINARY'),
+  ('numpy.libs\\libscipy_openblas64_-4bb64bb73b19ae7523581172b5c4a821.dll',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy.libs\\libscipy_openblas64_-4bb64bb73b19ae7523581172b5c4a821.dll',
+   'BINARY'),
+  ('numpy.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('81d243bd2c585b0f4821__mypyc.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\81d243bd2c585b0f4821__mypyc.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\cd.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\cd.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\md.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_tests.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_multiarray_tests.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_umath.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_multiarray_umath.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\mtrand.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\bit_generator.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_sfc64.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_philox.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_pcg64.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_mt19937.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_generator.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_common.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_umath.cp313-win_amd64.pyd',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy\\fft\\_pocketfft_umath.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program Files\\Python\\Python313\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Program Files\\Python\\Python313\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Program Files\\Python\\Python313\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\INSTALLER',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\RECORD',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\REQUESTED',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\licenses\\LICENSE',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\WHEEL',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\top_level.txt',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\METADATA',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.7.1.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\mt19937\\LICENSE.md',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\mt19937\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\pcg64\\LICENSE.md',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\pcg64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\splitmix64\\LICENSE.md',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\splitmix64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\ma\\LICENSE',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\ma\\LICENSE',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\philox\\LICENSE.md',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\philox\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\include\\numpy\\libdivide\\LICENSE.txt',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\include\\numpy\\libdivide\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\WHEEL',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\WHEEL',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\multiarray\\dragon4_LICENSE.txt',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\multiarray\\dragon4_LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\linalg\\lapack_lite\\LICENSE.txt',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\linalg\\lapack_lite\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\INSTALLER',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\LICENSE.md',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\METADATA',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\METADATA',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\DELVEWHEEL',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\DELVEWHEEL',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\npysort\\x86-simd-sort\\LICENSE.md',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\npysort\\x86-simd-sort\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\distributions\\LICENSE.md',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\distributions\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\RECORD',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\RECORD',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\sfc64\\LICENSE.md',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\random\\src\\sfc64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\LICENSE.txt',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\common\\pythoncapi-compat\\COPYING',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\common\\pythoncapi-compat\\COPYING',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\umath\\svml\\LICENSE',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\umath\\svml\\LICENSE',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\entry_points.txt',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\entry_points.txt',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\highway\\LICENSE',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\_core\\src\\highway\\LICENSE',
+   'DATA'),
+  ('numpy-2.4.3.dist-info\\licenses\\numpy\\fft\\pocketfft\\LICENSE.md',
+   'C:\\Program '
+   'Files\\Python\\Python313\\Lib\\site-packages\\numpy-2.4.3.dist-info\\licenses\\numpy\\fft\\pocketfft\\LICENSE.md',
+   'DATA'),
+  ('base_library.zip',
+   'E:\\Libraries\\Documents\\Games & '
+   'Software\\Minecraft\\Tools\\WorldConverter\\build\\WorldConverterTool\\base_library.zip',
+   'DATA')],)
