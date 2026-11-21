@@ -1,0 +1,8 @@
+# Python virtual environment: RunWorldToolPy.bat creates it on first run
+venv/
+__pycache__/
+*.pyc
+
+# PyInstaller output: the built exe goes in Releases, not in the code
+build/
+dist/
