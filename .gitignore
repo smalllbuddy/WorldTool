@@ -6,3 +6,4 @@ __pycache__/
 # PyInstaller output: the built exe goes in Releases, not in the code
 build/
 dist/
+name_overrides.json
